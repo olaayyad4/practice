@@ -1,0 +1,42 @@
+p {
+  font-family: Times New Roman, Arial;
+    font size: 9px;
+    color: Purple;
+}
+header{
+  background:linear-gradient(to left,#CAB5FF,#F9E0FF)
+}
+header{
+  padding: 30px;
+    margin-bottom: 30p;
+    border: 9px purple;
+}
+table{
+  padding: 10px;
+    margin-bottom: 30p;
+    border: 8px purple;
+}
+nav {background-color: #F9E0FF;
+border: 4px
+outline: 4px
+}
+
+h1 {font-family: tahoma; color: purple;
+font-size: 50px;
+letter-spacing: -2px;
+Font-weight: bold;
+Text-align: Center;background-color: #DAC4FF; border:1px solid white;}
+nav {border: 2px solid white;
+background-color: #DAC4FF}
+ul {display: inline-block; justify-content:center; margin: 12; padding:10; gap:20px;}
+a
+{text-decoration: none;
+letter-spacing: 2px;
+color: purple;
+display:inline-block;
+justify-content: center; font-family: times new roman; line-height: 10px;}
+
+table {margin-left: auto; margin-right: auto; border-width:10px; border-color: #DAC4FF; border-style: dotted; padding: 10px; box-sizing: content-box;} tr {color: purple;  } th {
+  border: 1px solid purple; border-style: dashed;} 
+h2 {font-family: tahoma;
+color: purple;}
